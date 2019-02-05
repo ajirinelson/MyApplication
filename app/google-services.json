@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310327465356",
+    "firebase_url": "https://napic-427ee.firebaseio.com",
+    "project_id": "napic-427ee",
+    "storage_bucket": "napic-427ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310327465356:android:a51d23ed3b20fccf",
+        "android_client_info": {
+          "package_name": "warri.crownfmng.com.napic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310327465356-rdtvmita2d8rud5brgsh43clfdo9te3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "warri.crownfmng.com.napic",
+            "certificate_hash": "9cb5512a13b5d715181f0caeacdcaa22c7641df1"
+          }
+        },
+        {
+          "client_id": "310327465356-j1h8d15200c28gr09dlcrs5v7lce3cst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuTvWJVe8oN3-n8K4ftXLAs78Yuz0Syc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310327465356-j1h8d15200c28gr09dlcrs5v7lce3cst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
